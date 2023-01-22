@@ -13,7 +13,7 @@ export const Footer = () => {
       <ul className='flex flex-wrap items-center mt-3 text-sm text-gray-500 dark:text-gray-400 sm:mt-0'>
         <li>
           <a
-            href=''
+            href='https://www.instagram.com/rahilansariii/'
             target='_blank'
             rel='noreferrer'
             className='mr-4 hover:underline md:mr-6 '
@@ -23,7 +23,7 @@ export const Footer = () => {
         </li>
         <li>
           <a
-            href=''
+            href='https://in.linkedin.com/in/rahil-raza-ansari-34712356'
             target='_blank'
             rel='noreferrer'
             className='mr-4 hover:underline md:mr-6'
@@ -33,7 +33,7 @@ export const Footer = () => {
         </li>
         <li>
           <a
-            href=''
+            href='https://twitter.com/rahilansari261'
             target='_blank'
             rel='noreferrer'
             className='mr-4 hover:underline md:mr-6'
@@ -41,24 +41,15 @@ export const Footer = () => {
             Twitter
           </a>
         </li>
+        <li></li>
         <li>
           <a
-            href=''
-            target='_blank'
-            rel='noreferrer'
-            className='mr-4 hover:underline md:mr-6'
-          >
-            Youtube
-          </a>
-        </li>
-        <li>
-          <a
-            href=''
+            href='https://github.com/rahilansari261'
             target='_blank'
             rel='noreferrer'
             className='hover:underline'
           >
-            Githu
+            Github
           </a>
         </li>
       </ul>
