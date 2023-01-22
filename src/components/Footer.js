@@ -58,7 +58,7 @@ export const Footer = () => {
             rel='noreferrer'
             className='hover:underline'
           >
-            Github
+            Githu
           </a>
         </li>
       </ul>
